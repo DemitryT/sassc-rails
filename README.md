@@ -85,6 +85,8 @@ is maintained by [Ryan Boland](https://ryanboland.com) and [awesome contributors
 
 ## Changelog
 
+- **2.1.3**
+  - Use version 2.4.0 of the sassc gem as the dependency
 - **2.1.2**
   - [Correct reference to SassC::Script::Value::String](https://github.com/sass/sassc-rails/pull/129)
 - **2.1.1**
